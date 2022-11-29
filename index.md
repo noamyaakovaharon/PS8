@@ -4,7 +4,7 @@
 
 Heres my simple map! 
 
-<iframe src="Noam_Aharon.html" height="855" width="800"></iframe>
+<iframe src="Noam_Aharon.html" height="855" width="1200"></iframe>
 
 You can view this map [as its own web page here](Noam_Aharon.html)
 
